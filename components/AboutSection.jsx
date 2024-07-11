@@ -50,6 +50,7 @@ const AboutSection = () => {
             <div className="mt-12 sm:mt-16 lg:mt-0">
               <div className="-mr-48 pl-6 md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                 <Image
+                  alt="Mission image"
                   width={200}
                   height={200}
                   className="w-full rounded-xl shadow-2xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
@@ -107,7 +108,7 @@ const AboutSection = () => {
                 <Image
                   width={200}
                   height={200}
-                  alt="Inbox user interface"
+                  alt="Vision image"
                   className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
                   src="https://images.unsplash.com/photo-1599134842279-fe807d23316e"
                 />
@@ -164,6 +165,7 @@ const AboutSection = () => {
             <div className="mt-12 sm:mt-16 lg:mt-0">
               <div className="-mr-48 pl-6 md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                 <Image
+                  alt="Values image"
                   width={200}
                   height={200}
                   className="w-full rounded-xl shadow-2xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"

@@ -21,18 +21,18 @@ const Testimonial = () => {
                   Speechless with how easy this was to integrate
                 </h3>
                 <p class="my-4">
-                  "I recently got my hands on Neidrotech, and holy crap, I'm
+                  I recently got my hands on Neidrotech, and holy crap, I am
                   speechless with how easy this was to integrate within my
                   application. Most templates are a pain, code is scattered, and
                   near impossible to theme.
                 </p>
                 <p class="my-4">
-                  Neidrotech has code in one place and I'm not joking when I say
-                  it took me a matter of minutes to copy the code, customise it
-                  and integrate within a Laravel + Vue application.
+                  Neidrotech has code in one place and I am not joking when I
+                  say it took me a matter of minutes to copy the code, customise
+                  it and integrate within a Laravel + Vue application.
                 </p>
                 <p class="my-4">
-                  If you care for your time, I hands down would go with this."
+                  If you care for your time, I hands down would go with this.
                 </p>
               </blockquote>
               <figcaption class="flex justify-center items-center space-x-3">
@@ -57,7 +57,7 @@ const Testimonial = () => {
                   Solid foundation for any project
                 </h3>
                 <p class="my-4">
-                  "Neidrotech provides a robust set of design tokens and
+                  Neidrotech provides a robust set of design tokens and
                   components based on the popular Tailwind CSS framework. From
                   the most used UI components like forms and navigation bars to
                   the whole app screens designed both for desktop and mobile,
@@ -65,7 +65,7 @@ const Testimonial = () => {
                 </p>
                 <p class="my-4">
                   Designing with Figma components that can be easily translated
-                  to the utility classes of Tailwind CSS is a huge timesaver!"
+                  to the utility classes of Tailwind CSS is a huge timesaver!
                 </p>
               </blockquote>
               <figcaption class="flex justify-center items-center space-x-3">
@@ -90,17 +90,17 @@ const Testimonial = () => {
                   Mindblowing workflow and variants
                 </h3>
                 <p class="my-4">
-                  "As someone who mainly designs in the browser, I've been a
+                  As someone who mainly designs in the browser, I have been a
                   casual user of Figma, but as soon as I saw and started playing
                   with Neidrotech my mind was 🤯.
                 </p>
                 <p class="my-4">
-                  Everything is so well structured and simple to use (I've
+                  Everything is so well structured and simple to use (I have
                   learnt so much about Figma by just using the toolkit).
                 </p>
                 <p class="my-4">
                   Aesthetically, the well designed components are beautiful and
-                  will undoubtedly level up your next application."
+                  will undoubtedly level up your next application.
                 </p>
               </blockquote>
               <figcaption class="flex justify-center items-center space-x-3">
@@ -125,13 +125,13 @@ const Testimonial = () => {
                   Efficient Collaborating
                 </h3>
                 <p class="my-4">
-                  "This is a very complex and beautiful set of elements. Under
+                  This is a very complex and beautiful set of elements. Under
                   the hood it comes with the best things from 2 different
                   worlds: Figma and Tailwind.
                 </p>
                 <p class="my-4">
                   You have many examples that can be used to create a fast
-                  prototype for your team."
+                  prototype for your team.
                 </p>
               </blockquote>
               <figcaption class="flex justify-center items-center space-x-3">

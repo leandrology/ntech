@@ -10,7 +10,7 @@ const Contact = () => {
             Contact Us
           </h1>
           <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
-            We'd love to hear from you. Get in touch with us today.
+            We would love to hear from you. Get in touch with us today.
           </p>
         </div>
         <CallToAction
